@@ -1,0 +1,18 @@
+{
+  "item.grandfruits.gomu_gomu_no_mi": "Gomu Gomu no Mi",
+  "item.grandfruits.mera_mera_no_mi": "Mera Mera no Mi",
+  "item.grandfruits.pika_pika_no_mi": "Pika Pika no Mi",
+  "item.grandfruits.gura_gura_no_mi": "Gura Gura no Mi",
+  "item.grandfruits.haki_charm": "Haki Relic",
+  "tooltip.grandfruits.gomu": "Use to send a stretchy punch forward.",
+  "tooltip.grandfruits.mera": "Use to release a burst of flames around you.",
+  "tooltip.grandfruits.pika": "Use to gain speed and release a flash of light.",
+  "tooltip.grandfruits.gura": "Use to unleash a shockwave around you.",
+  "tooltip.grandfruits.haki": "Use to temporarily strengthen your attack and defense.",
+  "tooltip.grandfruits.cooldown": "Reusable power with a cooldown.",
+  "message.grandfruits.used.gomu": "Gomu Gomu no Mi: Stretchy Punch!",
+  "message.grandfruits.used.mera": "Mera Mera no Mi: Flame Burst!",
+  "message.grandfruits.used.pika": "Pika Pika no Mi: Flash of Light!",
+  "message.grandfruits.used.gura": "Gura Gura no Mi: Shockwave!",
+  "message.grandfruits.used.haki": "Armament Haki activated!"
+}

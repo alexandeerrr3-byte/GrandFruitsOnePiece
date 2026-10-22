@@ -1,0 +1,24 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+
+[[mods]]
+modId="grandfruits"
+version="1.0.0"
+displayName="Grand Fruits: One Piece Powers"
+authors="Fan-made project"
+description='''Mod fan-made inspirado en One Piece. Añade frutas del diablo y poderes fantásticos. No es un producto oficial ni está afiliado a sus propietarios.'''
+
+[[dependencies.grandfruits]]
+modId="forge"
+mandatory=true
+versionRange="[47.4.0,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.grandfruits]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1,1.21)"
+ordering="NONE"
+side="BOTH"
